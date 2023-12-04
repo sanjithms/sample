@@ -1,0 +1,4 @@
+ha=10
+b=30
+c=a-b
+print("the sum is:",c)
